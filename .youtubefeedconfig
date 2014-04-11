@@ -4,10 +4,10 @@
 ##################################################################################
 # 
 # For "My Subscriptions" feed, replace <username> with you youtube ID.
-youtubeFeed=http://gdata.youtube.com/feeds/base/users/neonbjb/newsubscriptionvideos
+youtubeFeed=http://gdata.youtube.com/feeds/base/users/TsViVHFGH3EIsDjBTY_lNA/newsubscriptionvideos
 #
 # <username>'s videos
-#http://gdata.youtube.com/feeds/api/videos?author=<username>
+#http://gdata.youtube.com/feeds/api/videos?author=TsViVHFGH3EIsDjBTY_lNA
 #
 # "Default", points to "Top Rated" feed.
 #youtubeFeed=http://gdata.youtube.com/feeds/api/standardfeeds/top_rated
